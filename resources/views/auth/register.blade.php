@@ -74,6 +74,9 @@
                                         <input class="form-control" type="password" id="password_confirmation" name="password_confirmation" required="" placeholder="Password Confirmation">
                                     </div>
                                 </div>
+
+                             
+    
     
                                 <div class="form-group mb-3 row">
                                     <div class="col-12">
@@ -112,7 +115,7 @@
         <script src="{{ asset('backend/assets/libs/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
         <script src="{{ asset('backend/assets/libs/metismenu/metisMenu.min.js') }}"></script>
         <script src="{{ asset('backend/assets/libs/simplebar/simplebar.min.js') }}"></script>
-        <script src="{{ asset('backendassets/libs/node-waves/waves.min.js') }}"></script>
+        <script src="{{ asset('backend/assets/libs/node-waves/waves.min.js') }}"></script>
 
         <script src="{{ asset('backend/assets/js/app.js') }}"></script>
 
